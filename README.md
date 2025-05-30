@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![CodeBoy722's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeBoy722&count_private=true&show_icons=true)](https://github.com/CodeBoy722/github-readme-stats)
+[![CodeBoy722's GitHub stats](https://github-readme-stats.vercel.app/api?username=debacodex&count_private=true&show_icons=true)](https://github.com/debacodex/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBoy722&layout=compact)](https://github.com/CodeBoy722/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debacodex&layout=compact)](https://github.com/debacodex/github-readme-stats)
 
